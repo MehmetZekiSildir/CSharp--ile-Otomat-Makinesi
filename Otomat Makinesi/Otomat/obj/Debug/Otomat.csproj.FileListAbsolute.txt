@@ -1,0 +1,8 @@
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\bin\Debug\Otomat.exe.config
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\bin\Debug\Otomat.exe
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\bin\Debug\Otomat.pdb
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\obj\Debug\Otomat.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\obj\Debug\Otomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\obj\Debug\Otomat.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\obj\Debug\Otomat.exe
+C:\Users\mehme\Desktop\Otomat Makinesi\Otomat\obj\Debug\Otomat.pdb
